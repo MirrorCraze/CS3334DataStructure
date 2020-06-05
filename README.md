@@ -1,2 +1,2 @@
-# CS3334DataStructure
-C++ code in data structure class.
+# CS3334_DataStructure
+C++ code in CityU CS3334 Data structure class.
